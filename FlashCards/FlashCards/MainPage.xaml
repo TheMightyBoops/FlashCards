@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FlashCards"
+             x:Class="FlashCards.MainPage">
+
+    <StackLayout x:Name="layout" BackgroundColor="White">
+        <!-- Place new controls here -->
+        <StackLayout.GestureRecognizers>
+            <SwipeGestureRecognizer Direction="Right" Swiped="DisplayAnswer"/>
+        </StackLayout.GestureRecognizers>
+        <Label x:Name="questionLabel" Text="{Binding BaseQuestion}" TextColor="Black" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,12 @@
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\bin\Debug\netstandard2.0\FlashCards.deps.json
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\bin\Debug\netstandard2.0\FlashCards.dll
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\bin\Debug\netstandard2.0\FlashCards.pdb
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.csprojAssemblyReference.cache
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.AssemblyInfoInputs.cache
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.AssemblyInfo.cs
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.dll
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.pdb
