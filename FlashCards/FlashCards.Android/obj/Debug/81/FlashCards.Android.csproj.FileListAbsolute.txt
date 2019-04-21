@@ -55,6 +55,7 @@ C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\bin
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\bin\Debug\System.ServiceModel.Internals.pdb
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\bin\Debug\System.Web.Services.pdb
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\bin\Debug\FlashCards.dll.mdb
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\obj\Debug\81\linksrc\FlashCards.Android.pdb
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\obj\Debug\81\linksrc\Mono.Android.pdb
@@ -77,7 +78,6 @@ C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\obj
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\obj\Debug\81\linksrc\Mono.Security.pdb
-C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\bin\Debug\FlashCards.dll.mdb
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\obj\Debug\81\linksrc\FlashCards.dll.mdb
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\obj\Debug\81\android\assets\FlashCards.dll.mdb
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards.Android\obj\Debug\81\android\assets\FlashCards.Android.pdb

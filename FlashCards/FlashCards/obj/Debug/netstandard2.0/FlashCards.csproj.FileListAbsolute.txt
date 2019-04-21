@@ -7,6 +7,6 @@ C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\n
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.csproj.CoreCompileInputs.cache
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.AssemblyInfoInputs.cache
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.AssemblyInfo.cs
-C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.dll
 C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\FlashCards.pdb
+C:\Users\Lucas Nolting\source\repos\FlashCards\FlashCards\FlashCards\obj\Debug\netstandard2.0\XamlC.stamp

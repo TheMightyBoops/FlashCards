@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Diagnostics;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -7,6 +9,21 @@ namespace FlashCards
 {
     public partial class App : Application
     {
+        static QuestionDB database;
+
+        public static QuestionDB Database
+        {
+            get
+            {
+                if(database == null)
+                {
+                    database = new QuestionDB(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "QuestionSQLite.db"));
+                }
+
+                return database;
+            }
+        }
+
         public App()
         {
             InitializeComponent();

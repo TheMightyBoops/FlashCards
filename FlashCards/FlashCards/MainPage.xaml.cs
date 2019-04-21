@@ -7,13 +7,18 @@ using Xamarin.Forms;
 
 namespace FlashCards
 {
+   
     public partial class MainPage : ContentPage
     {
+        QuestionDB questiondb = App.Database;
+        
         List<Question> questions = new List<Question>()
         {
-            new Question("Example Question one", "Answer to question one"),
-            new Question("Example Question two", "Answer to question two")
+            //new Question("How are you doing?", "You are okay."),
+            //new Question("How many jumpers does the queen have", "Between 9 and 10.")
         };
+
+    
 
         int currentQuestionIndex = 0;
         int correctAnswers = 0;
@@ -33,12 +38,27 @@ namespace FlashCards
         public MainPage()
         {
             InitializeComponent();
+
+
+            //questiondb.ClearQuestions();
+            //write to dabase
+            //If new instance run following
+            //questiondb.SaveItemAsync(new Question("How are you doing?", "You are okay."));
+            //questiondb.SaveItemAsync(new Question("How many jumpers does the queen have", "Between 9 and 10."));
+
+            //read from database
+            questions.Clear();
+            var qList = questiondb.GetItemsNotDoneAsync();
+            questions = qList.Result;
+
             questionLabel.BindingContext = questions[currentQuestionIndex];
            
         }
 
         public void DisplayAnswer(object sender, EventArgs e)
         {
+            
+           
             EraseStatsOnStateChange();
 
             if (questions[currentQuestionIndex].Answer == questionLabel.Text)
